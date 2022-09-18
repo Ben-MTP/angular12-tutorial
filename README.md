@@ -28,8 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Local project:
 
-[Local-project](E:\1_CODING\LearnAngular\project\angular12-tutorial)
+Local-project: E:\1_CODING\LearnAngular\project\angular12-tutorial
 
 ## Reference document:
 
 [C.49-Angular 12 - Hướng dẫn từ căn bản đến nâng cao - Code là Ghiền](https://www.youtube.com/playlist?list=PLiNjao7yG417iy0SwSuaGDZ7GBJs654ME)
+
+[Referece repository](https://github.com/codelaghien/Angular12)

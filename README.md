@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Local project:
+
+[Local-project](E:\1_CODING\LearnAngular\project\angular12-tutorial)
+
+## Reference document:
+
+[C.49-Angular 12 - Hướng dẫn từ căn bản đến nâng cao - Code là Ghiền](https://www.youtube.com/playlist?list=PLiNjao7yG417iy0SwSuaGDZ7GBJs654ME)
